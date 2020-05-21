@@ -1,0 +1,76 @@
+
+body{
+background-color: #110d40;
+}
+
+h1{
+  text-align: center;
+  font-size: 8rem;
+  font-family: fantasy;
+  color: #5fe3d1;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  padding-bottom: 1%
+}
+
+.allButton{
+  text-align: center;
+}
+.buttonSise{
+  height: 250px;
+  width: 250px;
+  display: inline-block;
+  padding: 50px, 50px;
+  margin: 10px;
+  border-radius: 20px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: black;
+}
+.allButton{
+  margin-top: 1%;
+}
+
+
+/* BUTTEN */
+
+.pushButton{
+
+  height: 230px;
+  width: 230px;
+  box-shadow: 0 0 10px rgba(0,0,0,0,2);
+  opacity: .3;
+}
+
+.button_1{
+  background-color: green;
+}
+.button_2{
+    background-color: red;
+}
+.button_3{
+    background-color: yellow;
+}
+.button_4{
+  background-color: Blue;
+}
+
+
+/* class erore */
+.errorClass{
+  background-color: red;
+}
+
+.informClass{
+  color: #fff;
+  font-size: 2rem;
+
+}
+.informDiv{
+  position: absolute;
+  margin-left: 10%;
+}
+
+.win{
+  background-color: green;
+}
